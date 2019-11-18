@@ -1,0 +1,32 @@
+ /* There's no license. You can copy, modify the code as you like. -->
+                damian grzegolec */
+
+html {
+    height: 100%;
+}
+
+body {
+    background: url("img/sample.jpg");
+    background-size: cover;
+    font-family: Lato;
+    color: white;
+}
+
+#inside {
+    text-align: center;
+    padding-top: 25%;
+    
+}
+
+hr {
+    border: 0;
+    width: 700px;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(153, 148, 148, 0.75), rgba(187, 131, 131, 0));
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 5em;
+    text-shadow: 0.075em 0.08em 0.1em rgba(0, 0, 0, 1);
+}
